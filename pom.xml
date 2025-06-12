@@ -13,7 +13,7 @@
 
     <groupId>dev.ikm.tinkar</groupId>
     <artifactId>snomed-ct-loinc-data-bom</artifactId>
-    <version>1.7.0-SNAPSHOT</version>
+    <version>1.7.0-IKDT-1023-SNAPSHOT</version>
     <name>Snomed CT Loinc Data BOM</name>
     <description>Snomed CT Loinc Data Bill Of Materials</description>
     <packaging>pom</packaging>
